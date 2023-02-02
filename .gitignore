@@ -1,2 +1,6 @@
 .idea/*
 basic-pytorch/quick-start/data/*
+basic-pytorch/data/*
+
+basic-pytorch/image/*
+*.ckpt
