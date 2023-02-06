@@ -4,3 +4,4 @@ basic-pytorch/data/*
 
 basic-pytorch/image/*
 *.ckpt
+*.pyc
